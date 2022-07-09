@@ -1,3 +1,3 @@
 # Programming-Languages
-A curated list of pr0gramming languages.
+A curated list of programming languages.
 
