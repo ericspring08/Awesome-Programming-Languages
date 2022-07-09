@@ -1,8 +1,11 @@
 ![Programming Languages Banner](https://user-images.githubusercontent.com/69996843/178092319-5dc63ad1-2fb9-4260-9e5a-eb63f79cbeb0.png)
 
+# Contributing 
+Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember to abide to the [CODE OF CONDUCT](./CODE_OF_CONDUCT.md).
+
 # Languages
 
-|Name  |Description| Creator          | Date Created    |Links        |Applications        |
+|Name  |Description| Creator          | Release Date    |Links        |Applications        |
 |------|-----------|------------------|-----------------|-------------|--------------------|
 |Dart|Dart is a programming language that lets you build web and mobile apps natively and was developed by Google| Lars Bak and Kasper Lund |November 14, 2013|[Official Website](https://dart.dev/) [Github Repo](https://github.com/dart-lang)|Web and Mobile Applications for both Android and iOS|
 |Java|Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.|James Gosling|1996|[Official Website](https://www.java.com/en/)|Applications in laptops and cell phones, data centers, game consoles, scientific supercomputers|
