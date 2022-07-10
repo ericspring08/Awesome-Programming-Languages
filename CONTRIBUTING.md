@@ -8,19 +8,19 @@ By contributing to this repository you honor the [CODE OF CONDUCT](./CODE_OF_CON
 * The list of languages is in alphabetical order, make sure that the languages you add to the list follow that order
 * Each language has the fields: Name, Description, Creator,	Release Date, Links,	Applications
 ## Name
-Provide the name of the language
+Provide the name of the language.
 
 ## Description
-Provide a description of the language, it is best if it is taken directly from that languages official website
+Provide a description of the language, it is best if it is taken directly from that languages official website.
 
 ## Creator
-Provide the name of the creator of the language, whether it is a single person, groups of persons, or organization
+Provide the name of the creator of the language, whether it is a single person, groups of persons, or organization.
 
 ## Date
-Provide the date the language was officialy release (not the date it began development)
+Provide the date the language was officialy release (not the date it began development).
 
 ## Links
-Provide important links and refrences to the language. Include things like "Official Website" or "Github Repository"
+Provide important links and refrences to the language. Include things like "Official Website" or "Github Repository". Links should be separated by commas.
 
 ## Applications
 Provide the applications of the language in development. Please format it with a bullet list.
