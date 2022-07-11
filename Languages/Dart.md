@@ -4,4 +4,5 @@
 - **Release Date** - November 14, 2013
 - **Links** - [Official Website](https://dart.dev/), [Github Repo](https://github.com/dart-lang)
 - **Applications**
+  * Cross-Platform Applications
   * Web Development

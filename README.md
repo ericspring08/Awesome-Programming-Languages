@@ -20,6 +20,7 @@ Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember t
 
 # 👷 Maintainers
 - Eric Zhang - ericspring08@gmail.com
+  
 # 🧑‍🤝‍🧑 Contributors 
 <a href = "./CONTRIBUTORS.md">
 <img src = "https://contrib.rocks/image?repo=ericspring08/Programming-Languages"/>
