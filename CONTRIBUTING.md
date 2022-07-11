@@ -8,7 +8,7 @@ By contributing to this repository you honor the [CODE OF CONDUCT](./CODE_OF_CON
 * The list of languages is in alphabetical order, make sure that the languages you add to the list follow that order
 * Each language has the fields: Name, Description, Creator,	Release Date, Links,	Applications
 ## Name
-Provide the name of the language.
+Provide the name of the language. Please link the name to a page in the Languages Directory that is the name of that language.
 
 ## Description
 Provide a description of the language, it is best if it is taken directly from that languages official website.
@@ -26,3 +26,5 @@ Provide important links and refrences to the language. Include things like "Offi
 Provide the applications of the language in development. Please format it with a bullet list.
 
 **Please name your pull request: "adding (language name)"**
+
+* Create a page in the Languages Directory with the name of that language, please do not use special symbols in the name. This directory should contain all the information that was specified in the table. 
