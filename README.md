@@ -4,7 +4,7 @@
 
 # 👋 Welcome!
 This repo is a curated list of programming languages. We hope that this repository can provide a perspective for all the different programming languages, and provide a platform for lesser known languages to been noticed by developers. Feel free to submit a pull request or raise an issue. Make sure to follow [CONTRIBUTING](#contributing) when submitting a pull request.
-# 🙏🏻 Contributing 
+# 🤝 Contributing 
 Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember to abide to the [CODE OF CONDUCT](./CODE_OF_CONDUCT.md).
 
 # 🌐 Languages
