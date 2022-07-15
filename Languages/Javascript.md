@@ -8,3 +8,8 @@
   * Scripting
   * Game Development
   * Databases
+
+## Package Managers
+* [npm](https://www.npmjs.com/)
+* [yarn](https://yarnpkg.com/)
+* [pnpm](https://pnpm.io/)
