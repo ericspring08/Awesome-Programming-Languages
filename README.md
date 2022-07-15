@@ -7,7 +7,7 @@ This repo is a curated list of programming languages. We hope that this reposito
 # 🤝 Contributing 
 Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember to abide to the [CODE OF CONDUCT](./CODE_OF_CONDUCT.md).
 # Request a new language
-Please submit a issue new issue [here](https://github.com/ericspring08/Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
+Please submit a issue [here](https://github.com/ericspring08/Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
 
 # 🌐 Languages
 |Name|Description|Creator|Release Date|Links|Applications|
