@@ -9,3 +9,6 @@
   * Desktop Development
   * Game Development
   * Low Level Systems
+
+## Package Managment
+* [crates](https://crates.io/)
