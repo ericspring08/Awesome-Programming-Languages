@@ -10,3 +10,7 @@
   * Databases
   * Game Developement
   * Scientific Research
+  
+## Package Managers
+* [pip](https://pypi.org/)
+* [conda](https://docs.conda.io/en/latest/)
