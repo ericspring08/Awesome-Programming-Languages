@@ -10,6 +10,7 @@ Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember t
 Please submit a issue [here](https://github.com/ericspring08/Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
 
 # 🌐 Languages
+
 |Name|Description|Creator|Release Date|Links|Applications|
 |-|-|-|-|-|-|
 |[C#](Languages/Csharp.md)|(C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.| Anders Hejlsberg |2001|[Official Website](https://docs.microsoft.com/en-us/dotnet/csharp/)| <li>Game Development</li><li>console application</li><li>Windows GUI</li>|
