@@ -6,9 +6,10 @@
 This repo is a curated list of programming languages. We hope that this repository can provide a perspective for all the different programming languages, and provide a platform for lesser known languages to been noticed by developers. Feel free to submit a pull request or raise an issue. Make sure to follow [CONTRIBUTING](#contributing) when submitting a pull request.
 # 🤝 Contributing 
 Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember to abide to the [CODE OF CONDUCT](./CODE_OF_CONDUCT.md).
+# Request a new language
+Please submit a issue new issue [here](https://github.com/ericspring08/Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
 
 # 🌐 Languages
-
 |Name|Description|Creator|Release Date|Links|Applications|
 |-|-|-|-|-|-|
 |[C#](Languages/Csharp.md)|(C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.| Anders Hejlsberg |2001|[Official Website](https://docs.microsoft.com/en-us/dotnet/csharp/)| <li>Game Development</li><li>console application</li><li>Windows GUI</li>|
