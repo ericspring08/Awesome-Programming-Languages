@@ -7,3 +7,6 @@
   * Game Development
   * console application
   * Windows GUI
+  
+## Package Managment
+* [NuGet](https://www.nuget.org/)
