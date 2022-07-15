@@ -8,3 +8,7 @@
   * Databases
   * Game Development
   * Scientific Research
+  
+## Package Managers
+* [maven](https://search.maven.org/)
+* [gradle](https://plugins.gradle.org/)
