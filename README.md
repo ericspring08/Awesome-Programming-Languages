@@ -16,7 +16,7 @@ Please submit a issue [here](https://github.com/ericspring08/Programming-Languag
 * [Go](Languages/Go.md) - Go is a statically typed, compiled programming language designed at Google.It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 * [Java](Languages/Java.md) - Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 * [Javascript](Languages/Javascript.md) - JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments.
-* [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.| Guido van Rossum 
+* [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 * [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
 
 # 👷 Maintainers
