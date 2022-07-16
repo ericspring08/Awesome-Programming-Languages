@@ -14,6 +14,7 @@ Please submit a issue [here](https://github.com/ericspring08/Programming-Languag
 * [C#](Languages/Csharp) - (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 * [Dart](Languages/Dart.md) - Dart is a programming language that lets you build web and mobile apps natively and was developed by Google.
 * [Go](Languages/Go.md) - Go is a statically typed, compiled programming language designed at Google.It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+* [Haskell](Languages/Haskell.md) - Haskell is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation
 * [Java](Languages/Java.md) - Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 * [Javascript](Languages/Javascript.md) - JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments.
 * [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
