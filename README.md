@@ -22,10 +22,11 @@ Please submit a issue [here](https://github.com/ericspring08/Programming-Languag
 - [Haskell](Languages/Haskell.md) - Haskell is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation
 - [Java](Languages/Java.md) - Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 - [Javascript](Languages/Javascript.md) - JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments.
-- [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
-- [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
 - [Lua](Languages/Lua.md) - Lua from Portuguese, meaning "moon" is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
   Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications.
+- [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+- [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
+
 
 # 👷 Maintainers
 
