@@ -2,6 +2,8 @@
 
 [<img src = "https://img.shields.io/badge/license-Creative%20Commons-green"/>](./LICENSE) [<img src = "https://img.shields.io/github/forks/ericspring08/Programming-Languages"/>](https://github.com/ericspring08/Programming-Languages/fork) [<img src = "https://img.shields.io/github/stars/ericspring08/Programming-Languages"/>](./LICENSE) [<img src = "https://img.shields.io/github/watchers/ericspring08/Programming-Languages"/>](https://github.com/ericspring08/Programming-Languages/fork) [<img src = "https://img.shields.io/github/issues-pr/ericspring08/Programming-Languages"/>](https://github.com/ericspring08/Programming-Languages/pulls) [<img src = "https://img.shields.io/github/issues-pr-closed-raw/ericspring08/Programming-Languages"/>](https://github.com/ericspring08/Programming-Languages/pulls?q=is%3Apr+is%3Aclosed)
 
+**Please give this repo a ⭐ it really helps us!**
+
 # 👋 Welcome!
 
 This repo is a curated list of programming languages. We hope that this repository can provide a perspective for all the different programming languages, and provide a platform for lesser known languages to been noticed by developers. Feel free to submit a pull request or raise an issue. Make sure to follow [CONTRIBUTING](#contributing) when submitting a pull request.
