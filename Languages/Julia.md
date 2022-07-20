@@ -12,3 +12,6 @@ To gain such features and compatibility, Julia draws upon the lineage of mathema
     * Machine Learning
     * Data Visualization and Plotting
     * Parallel and Heterogeneous Computing
+    
+## Package Manager
+- [Pkg](https://pkgdocs.julialang.org/v1/)
