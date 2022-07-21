@@ -11,4 +11,4 @@
   
   
 ## Package Managment
-* There's no package manager for C++ libraries
+* [conan](https://conan.io/)
