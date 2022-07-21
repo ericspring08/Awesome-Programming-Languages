@@ -17,7 +17,7 @@ Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember t
 Please submit a issue [here](https://github.com/ericspring08/Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
 
 # 🌐 Languages
-
+- [C++](Languages/Cplusplus.md) - (C-PlusPlus) is a general-purpose programming language created as an extension of the C programming language.
 - [C#](Languages/Csharp.md) - (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 - [Dart](Languages/Dart.md) - Dart is a programming language that lets you build web and mobile apps natively and was developed by Google.
 - [Go](Languages/Go.md) - Go is a statically typed, compiled programming language designed at Google.It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
