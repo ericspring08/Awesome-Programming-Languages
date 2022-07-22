@@ -1,6 +1,6 @@
 ![Programming Languages Banner](https://user-images.githubusercontent.com/69996843/178092319-5dc63ad1-2fb9-4260-9e5a-eb63f79cbeb0.png)
 
-[<img src = "https://img.shields.io/badge/license-Creative%20Commons-green"/>](./LICENSE) [<img src = "https://img.shields.io/github/forks/ericspring08/Programming-Languages"/>](https://github.com/ericspring08/Programming-Languages/fork) [<img src = "https://img.shields.io/github/stars/ericspring08/Programming-Languages"/>](./LICENSE) [<img src = "https://img.shields.io/github/watchers/ericspring08/Programming-Languages"/>](https://github.com/ericspring08/Programming-Languages/fork) [<img src = "https://img.shields.io/github/issues-pr/ericspring08/Programming-Languages"/>](https://github.com/ericspring08/Programming-Languages/pulls) [<img src = "https://img.shields.io/github/issues-pr-closed-raw/ericspring08/Programming-Languages"/>](https://github.com/ericspring08/Programming-Languages/pulls?q=is%3Apr+is%3Aclosed)
+[<img src = "https://img.shields.io/badge/license-Creative%20Commons-green"/>](./LICENSE) [<img src = "https://img.shields.io/github/forks/ericspring08/Awesome-Programming-Languages"/>](https://github.com/ericspring08/Awesome-Programming-Languages/fork) [<img src = "https://img.shields.io/github/stars/ericspring08/Awesome-Programming-Languages"/>](./LICENSE) [<img src = "https://img.shields.io/github/watchers/ericspring08/Awesome-Programming-Languages"/>](https://github.com/ericspring08/Awesome-Programming-Languages/fork) [<img src = "https://img.shields.io/github/issues-pr/ericspring08/Awesome-Programming-Languages"/>](https://github.com/ericspring08/Awesome-Programming-Languages/pulls) [<img src = "https://img.shields.io/github/issues-pr-closed-raw/ericspring08/Awesome-Programming-Languages"/>](https://github.com/ericspring08/Awesome-Programming-Languages/pulls?q=is%3Apr+is%3Aclosed)
 
 **Please give this repo a ⭐ it really helps us!**
 
@@ -14,7 +14,7 @@ Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember t
 
 # Request a new language
 
-Please submit a issue [here](https://github.com/ericspring08/Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
+Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
 
 # 🌐 Languages
 - [C++](Languages/Cplusplus.md) - (C-PlusPlus) is a general-purpose programming language created as an extension of the C programming language.
@@ -38,7 +38,7 @@ Please submit a issue [here](https://github.com/ericspring08/Programming-Languag
 # 🧑‍🤝‍🧑 Contributors
 
 <a href = "./CONTRIBUTORS.md">
-<img src = "https://contrib.rocks/image?repo=ericspring08/Programming-Languages"/>
+<img src = "https://contrib.rocks/image?repo=ericspring08/Awesome-Programming-Languages"/>
 </a>
 
 # 🪪 License
