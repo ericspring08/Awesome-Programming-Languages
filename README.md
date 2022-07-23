@@ -27,6 +27,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Julia](Languages/Julia.md) - Julia is a dynamic, high-performance, compiler based programming language that is used to perform operations in scientific computing. Similar to R Programming Language, Julia is used for statistical computations and data analysis. Julia was built mainly because of its speed in programming, it has much faster execution as compared to Python and R.
 - [Lua](Languages/Lua.md) - Lua from Portuguese, meaning "moon" is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
   Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications.
+- [Perl](Languages/Perl.md) - Perl is a high level, interpreted, general-purpose programming language originally developed for text manipulation.
 - [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 - [Ruby](Languages/Ruby.md) - Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms.It was designed with an emphasis on programming productivity and simplicity.
 - [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
