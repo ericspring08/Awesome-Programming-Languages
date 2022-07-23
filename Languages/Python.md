@@ -16,3 +16,4 @@
 * [conda](https://docs.conda.io/en/latest/)
 
 ## Tutorials
+* [Free Coding Camp](https://www.youtube.com/watch?v=rfscVS0vtbw&ab_channel=freeCodeCamp.org)
