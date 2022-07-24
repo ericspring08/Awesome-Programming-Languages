@@ -1,6 +1,6 @@
 # Php
-- **Description** - PHP is a popular general-purpose scripting language that is especially suited to web development.
-Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+- **Description** - PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+
 - **Creator** - Rasmus Lerdorf
 - **Release Date** - June 8, 1995
 - **Links** - [Official Website](https://www.php.net/), [Github Repo](https://github.com/php/php-src)
