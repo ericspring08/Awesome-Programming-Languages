@@ -10,3 +10,5 @@
   
 ## Package Managment
 * [cabal](https://hackage.haskell.org/)
+
+## Tutorials

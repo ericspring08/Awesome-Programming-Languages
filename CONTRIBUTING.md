@@ -27,3 +27,4 @@ By contributing to this repository you honor the [CODE OF CONDUCT](./CODE_OF_CON
 **You do not need to fill in any information for the page sections, however please create them so future contributers can add to the sections.**
 
 * **Package Managment** - Create a bullet list of package managers
+* **Tutorials** - Create a bullet list of tutorial links

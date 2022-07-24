@@ -12,3 +12,10 @@
 ## Package Managment
 
 - [RubyGems](https://rubygems.org/)
+
+## Tutorials
+
+- [freeCodeCamp.org](https://www.youtube.com/watch?v=t_ispmWmdjY)
+- [The New Boston](https://www.youtube.com/watch?v=WJlfVjGt6Hg&list=PL1512BD72E7C9FFCA)
+- [RubyThursday](https://www.youtube.com/c/RubyThursday/videos)
+- [GoRails](https://www.youtube.com/c/GorailsTV/videos)

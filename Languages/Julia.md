@@ -13,3 +13,5 @@ Julia provides support for big data analytics by performing complex tasks such a
     
 ## Package Manager
 - [Pkg](https://pkgdocs.julialang.org/v1/)
+
+## Tutorials
