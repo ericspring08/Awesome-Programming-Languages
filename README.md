@@ -32,6 +32,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 - [Ruby](Languages/Ruby.md) - Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms.It was designed with an emphasis on programming productivity and simplicity.
 - [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
+- [V](Languages/V.md) - V is a simple, fast, safe, compiled. For developing maintainable software. I can be compiled into c and is known for having a small footprint.
 
 # 👷 Maintainers
 
