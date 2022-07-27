@@ -1,5 +1,5 @@
 # CSS
-- **Description** - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+- **Description** - Cascading Style Sheets also known as CSS is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
 - **Creator** - W3C
 - **Release Date** - 1996
 - **Links** - [Official Website](https://www.w3.org/Style/CSS/Overview.en.html)
