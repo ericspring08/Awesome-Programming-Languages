@@ -13,4 +13,4 @@
 * [nuget](https://www.nuget.org/)
 
 ## Tutorials
-* [Tutorials Point](https://www.tutorialspoint.com/dotnet_core/index.html)
+* [Tutorials Point](https://www.tutorialspoint.com/dotnet_core/index.htm)
