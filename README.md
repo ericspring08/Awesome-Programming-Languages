@@ -40,6 +40,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Ruby](Languages/Ruby.md) - Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms.It was designed with an emphasis on programming productivity and simplicity.
 - [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
 - [SASS](Languages/SASS.md) - Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.
+- [Scratch](Languages/Scratch.md) - Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool for programming,
 - [V](Languages/V.md) - V is a simple, fast, safe, compiled. For developing maintainable software. I can be compiled into c and is known for having a small footprint.
 - [Vim Script](Languages/Vimscript.md) - Vimscript is a powerful scripting language that lets you modify and extend the Vim editor.
 - [Visual J++](Languages/VisualJPlusPlus.md) - Visual J++ is Microsoft's discontinued implementation of Java. Syntax, keywords, and grammatical conventions were the same as Java's.
