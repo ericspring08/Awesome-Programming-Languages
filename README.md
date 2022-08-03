@@ -41,6 +41,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
 - [SASS](Languages/SASS.md) - Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.
 - [V](Languages/V.md) - V is a simple, fast, safe, compiled. For developing maintainable software. I can be compiled into c and is known for having a small footprint.
+- [Vim Script](Languages/Vimscript.md) - Vimscript is a powerful scripting language that lets you modify and extend the Vim editor.
 - [Visual J++](Languages/VisualJPlusPlus.md) - Visual J++ is Microsoft's discontinued implementation of Java. Syntax, keywords, and grammatical conventions were the same as Java's.
 
 # 👷 Maintainers
