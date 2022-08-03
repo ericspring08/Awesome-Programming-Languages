@@ -17,6 +17,7 @@ Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember t
 Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
 
 # 🌐 Languages
+- [Bash](Languages/Bash.md) - Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
 - [C++](Languages/Cplusplus.md) - (C-PlusPlus) is a general-purpose programming language created as an extension of the C programming language.
 - [C#](Languages/Csharp.md) - (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 - [CSS](Languages/CSS.md) - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.
