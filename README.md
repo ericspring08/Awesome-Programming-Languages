@@ -51,7 +51,8 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 
 # 👷 Maintainers
 
-- Eric Zhang - ericspring08@gmail.com
+- Eric Zhang (Owner) - ericspring08@gmail.com
+- Devarshi Shimpi (Maintainer) - devarshishimpi@gmail.com
 
 # 🧑‍🤝‍🧑 Contributors
 
