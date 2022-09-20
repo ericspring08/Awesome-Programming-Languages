@@ -4,4 +4,4 @@
 - **Release Date** - 1996
 - **Links** - [Official Website](https://docs.microsoft.com/en-us/previous-versions/windows/desktop/ms715962(v=vs.85))
 - **Applications**
-  * Orgamising Source Code
+  * Organizing Source Code
