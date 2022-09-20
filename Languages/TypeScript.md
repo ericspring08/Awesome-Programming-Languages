@@ -1,6 +1,5 @@
 # TypeScript
-- **Description** - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.
-- **Creator** - Microsoft
+- **Description** - TypeScript is a strongly typed programming language that builds on JavaScript.
 - **Release Date** - October 2012
 - **Links** - [GitHub](https://github.com/microsoft/TypeScript), [Official Website](https://www.typescriptlang.org/)
 - **Applications**
