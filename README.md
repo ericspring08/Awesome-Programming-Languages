@@ -43,6 +43,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
 - [SASS](Languages/SASS.md) - Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.
 - [Scratch](Languages/Scratch.md) - Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool for programming,
+- [Swift](Languages/Swift.md) - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.
 - [TypeScript](Languages/TypeScript.md) - TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language.
 - [V](Languages/V.md) - V is a simple, fast, safe, compiled. For developing maintainable software. I can be compiled into c and is known for having a small footprint.
 - [Vim Script](Languages/Vimscript.md) - Vimscript is a powerful scripting language that lets you modify and extend the Vim editor.
