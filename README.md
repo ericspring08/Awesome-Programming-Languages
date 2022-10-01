@@ -46,6 +46,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [V](Languages/V.md) - V is a simple, fast, safe, compiled. For developing maintainable software. I can be compiled into c and is known for having a small footprint.
 - [Vim Script](Languages/Vimscript.md) - Vimscript is a powerful scripting language that lets you modify and extend the Vim editor.
 - [Visual J++](Languages/VisualJPlusPlus.md) - Visual J++ is Microsoft's discontinued implementation of Java. Syntax, keywords, and grammatical conventions were the same as Java's.
+- [Zig](Languages/Zig.md) - Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
 
 # 🌐 Tools And Related
 
