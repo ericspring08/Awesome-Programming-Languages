@@ -25,10 +25,8 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Dart](Languages/Dart.md) - Dart is a programming language that lets you build web and mobile apps natively and was developed by Google.
 - [Delphi](Languages/Delphi.md) - Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment.
 - [Dot Net](Languages/DotNet.md) - .NET is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. It is a cross-platform successor to .NET Framework.
-- [Git](Languages/Git.md) - Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. 
 - [Go](Languages/Go.md) - Go is a statically typed, compiled programming language designed at Google.It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 - [Haskell](Languages/Haskell.md) - Haskell is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation
-- [HTML](Languages/HTML.md) - The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
 - [Java](Languages/Java.md) - Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 - [Javascript](Languages/Javascript.md) - JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments.
 - [Julia](Languages/Julia.md) - Julia is a dynamic, high-performance, compiler based programming language that is used to perform operations in scientific computing. Similar to R Programming Language, Julia is used for statistical computations and data analysis. Julia was built mainly because of its speed in programming, it has much faster execution as compared to Python and R.
@@ -37,9 +35,10 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
   Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications.
 - [Objective-C](Languages/ObjectiveC.md) - LuObjective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. Originally developed by Brad Cox and Tom Love in the early 1980s.
 - [Perl](Languages/Perl.md) - Perl is a high level, interpreted, general-purpose programming language originally developed for text manipulation.
+- [PostScript](Languages/PostScript.md) - PostScript is a stack-based programming language, mainly used for vector graphics and printing.
 - [Php](Languages/Php.md) - PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 - [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
-- [Ruby](Languages/Ruby.md) - Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms.It was designed with an emphasis on programming productivity and simplicity.
+- [Ruby](Languages/Ruby.md) - Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity.
 - [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
 - [SASS](Languages/SASS.md) - Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.
 - [Scratch](Languages/Scratch.md) - Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool for programming,
@@ -48,6 +47,12 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [V](Languages/V.md) - V is a simple, fast, safe, compiled. For developing maintainable software. I can be compiled into c and is known for having a small footprint.
 - [Vim Script](Languages/Vimscript.md) - Vimscript is a powerful scripting language that lets you modify and extend the Vim editor.
 - [Visual J++](Languages/VisualJPlusPlus.md) - Visual J++ is Microsoft's discontinued implementation of Java. Syntax, keywords, and grammatical conventions were the same as Java's.
+- [Zig](Languages/Zig.md) - Zig is a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software.
+
+# 🌐 Tools And Related
+
+- [Git](Languages/Git.md) - Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+- [HTML](Languages/HTML.md) - The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
 
 # 👷 Maintainers
 
