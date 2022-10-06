@@ -51,8 +51,8 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 
 # 🌐 Tools And Related
 
-- [Git](Languages/Git.md) - Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
-- [HTML](Languages/HTML.md) - The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
+- [Git](Tools-And-Related/Git.md) - Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development.
+- [HTML](Tools-And-Related/HTML.md) - The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.
 
 # 👷 Maintainers
 
