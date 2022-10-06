@@ -7,9 +7,9 @@ By contributing to this repository you honor the [CODE OF CONDUCT](./CODE_OF_CON
 **Please name your pull request: "adding (language name)"**
 
 # README.md
-* Please add your language to the list of langauges in alphabetical order. 
+* Please add your language to the list of langauges in alphabetical order. If it is not necessarily a programming language, please add it to Tools And Related (E.g. HTML).
 * Provide a description of the language by following the language name with a - and then giving the description.
-* Link the language name to a page in /Languages titled {Language-Name}.md.
+* Link the language name to a page in /Languages titled {Language-Name}.md. It it is not neccesarily a programming language, please link it to a page in /Tools-And-Related titled {Language-Name}.md.
 
 # {Language-Name}.md
 ## General Information
