@@ -25,6 +25,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Dart](Languages/Dart.md) - Dart is a programming language that lets you build web and mobile apps natively and was developed by Google.
 - [Delphi](Languages/Delphi.md) - Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment.
 - [Dot Net](Languages/DotNet.md) - .NET is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. It is a cross-platform successor to .NET Framework.
+- [F#](Languages/Fsharp.md) - F# is a functional-first, general purpose, strongly typed, multi-paradigm programming language.
 - [Go](Languages/Go.md) - Go is a statically typed, compiled programming language designed at Google.It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 - [Haskell](Languages/Haskell.md) - Haskell is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation
 - [Java](Languages/Java.md) - Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
@@ -35,6 +36,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
   Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications.
 - [Objective-C](Languages/ObjectiveC.md) - LuObjective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. Originally developed by Brad Cox and Tom Love in the early 1980s.
 - [Perl](Languages/Perl.md) - Perl is a high level, interpreted, general-purpose programming language originally developed for text manipulation.
+- [Prolog](Languages/Prolog.md) - Prolog is a logic programming language associated with artificial intelligence and computational linguistics.
 - [PostScript](Languages/PostScript.md) - PostScript is a stack-based programming language, mainly used for vector graphics and printing.
 - [Php](Languages/Php.md) - PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 - [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
