@@ -36,6 +36,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
   Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications.
 - [Objective-C](Languages/ObjectiveC.md) - LuObjective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. Originally developed by Brad Cox and Tom Love in the early 1980s.
 - [Perl](Languages/Perl.md) - Perl is a high level, interpreted, general-purpose programming language originally developed for text manipulation.
+- [Prolog](Languages/Prolog.md) - Prolog is a logic programming language associated with artificial intelligence and computational linguistics.
 - [PostScript](Languages/PostScript.md) - PostScript is a stack-based programming language, mainly used for vector graphics and printing.
 - [Php](Languages/Php.md) - PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
 - [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
