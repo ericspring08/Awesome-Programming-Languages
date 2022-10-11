@@ -9,8 +9,7 @@
 ## Package Managers
 * [Tailwind](https://tailwindcss.com/)
 * [Bootstrap](https://getbootstrap.com/)
-* [Stone CSS](https://stonecss.netlify.app/)
-
+* [Stone CSS](https://stonecss.com)
 
 ## Tutorials
 * [Mozilla Docs](https://developer.mozilla.org/en-US/docs/Web/CSS)
