@@ -21,12 +21,14 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [C++](Languages/Cplusplus.md) - (C-PlusPlus) is a general-purpose programming language created as an extension of the C programming language.
 - [C#](Languages/Csharp.md) - (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 - [Carbon](Languages/Carbon.md) - Carbon, or Carbon-Lang, is an experimental, general-purpose programming language created to be a "C++ successor" developed by Google.
+- [Crystal](Languages/Crystal.md) - Crystal is a general-purpose, object-oriented programming language, designed and developed by Ary Borenszweig, Juan Wajnerman, Brian Cardiff and more than 300 contributors
 - [CSS](Languages/CSS.md) - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML.
 - [Dart](Languages/Dart.md) - Dart is a programming language that lets you build web and mobile apps natively and was developed by Google.
 - [Delphi](Languages/Delphi.md) - Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment.
 - [Dot Net](Languages/DotNet.md) - .NET is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. It is a cross-platform successor to .NET Framework.
 - [F#](Languages/Fsharp.md) - F# is a functional-first, general purpose, strongly typed, multi-paradigm programming language.
 - [Go](Languages/Go.md) - Go is a statically typed, compiled programming language designed at Google.It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+- [Groovy](Languages/Groovy.md) - Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform.
 - [Haskell](Languages/Haskell.md) - Haskell is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation
 - [Java](Languages/Java.md) - Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 - [Javascript](Languages/Javascript.md) - JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments.
