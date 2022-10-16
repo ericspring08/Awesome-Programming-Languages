@@ -28,6 +28,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Dot Net](Languages/DotNet.md) - .NET is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. It is a cross-platform successor to .NET Framework.
 - [F#](Languages/Fsharp.md) - F# is a functional-first, general purpose, strongly typed, multi-paradigm programming language.
 - [Go](Languages/Go.md) - Go is a statically typed, compiled programming language designed at Google.It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
+- [Groovy](Languages/Groovy.md) - Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform.
 - [Haskell](Languages/Haskell.md) - Haskell is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation
 - [Java](Languages/Java.md) - Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
 - [Javascript](Languages/Javascript.md) - JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments.
