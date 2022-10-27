@@ -41,7 +41,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Prolog](Languages/Prolog.md) - Prolog is a logic programming language associated with artificial intelligence and computational linguistics.
 - [PostScript](Languages/PostScript.md) - PostScript is a stack-based programming language, mainly used for vector graphics and printing.
 - [Php](Languages/Php.md) - PHP is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
-- [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.z
+- [Python](Languages/Python.md) - Python is a programming language that lets you work more quickly and integrate your systems more effectively.
 - [Ruby](Languages/Ruby.md) - Ruby is an interpreted, high-level, general-purpose programming language which supports multiple programming paradigms. It was designed with an emphasis on programming productivity and simplicity.
 - [Rust](Languages/Rust.md) - Rust is a multi-paradigm programming language syntactically similar to c but with features such as memory safety and concurrency without the use of a garbage collector
 - [SASS](Languages/SASS.md) - Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.
