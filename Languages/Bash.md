@@ -9,12 +9,13 @@
   - Web App Deployment
   - Creating Custom Scripts
   - Automated Backups
+  - Process Automation
 
 ## Package Managers
 
-- Basher: https://github.com/basherpm/basher
-- Homebrew: https://brew.sh/
-- GNU Guix: https://guix.gnu.org/
+- [Basher](https://github.com/basherpm/basher)
+- [Homebrew](https://brew.sh/)
+- [GNU Guix](https://guix.gnu.org/)
 
 ## Tutorial
 
