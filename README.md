@@ -17,7 +17,9 @@ Welcome! To contribute please read [CONTRIBUTING](./CONTRIBUTING.md). Remember t
 Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming-Languages/issues/new?assignees=ericspring08&labels=documentation&template=add-a-new-language.md&title=Add+New+Language%3A+%7BLanguage+Name%7D)
 
 # 🌐 Languages
+
 - [Bash](Languages/Bash.md) - Bash is a Unix shell and command language written by Brian Fox for the GNU Project as a free software replacement for the Bourne shell.
+- [Batch](Languages/Batch.md) - Batch programming language, commonly known as Batch or Windows Batch, is a scripting language used in Windows operating systems to automate tasks by executing a series of commands in a batch file.
 - [C++](Languages/Cplusplus.md) - (C-PlusPlus) is a general-purpose programming language created as an extension of the C programming language.
 - [C#](Languages/Csharp.md) - (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework.
 - [Carbon](Languages/Carbon.md) - Carbon, or Carbon-Lang, is an experimental, general-purpose programming language created to be a "C++ successor" developed by Google.
