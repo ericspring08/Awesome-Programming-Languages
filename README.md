@@ -50,6 +50,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [SASS](Languages/SASS.md) - Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.
 - [Scala](Languages/Scala.md) - Scala is a strong statically typed general-purpose programming language which supports both object-oriented programming and functional programming.
 - [Scratch](Languages/Scratch.md) - Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool for programming.
+- [SEMAPRAX](Languages/SEMAPRAX.md) - SEMAPRAX is an experimental, agent-native systems programming language built around a stable semantic program graph.
 - [Solidity](Languages/Solidity.md) - Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
 - [Swift](Languages/Swift.md) - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.
 - [TypeScript](Languages/TypeScript.md) - TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language.
