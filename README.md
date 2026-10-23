@@ -30,6 +30,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Delphi](Languages/Delphi.md) - Delphi is a general-purpose programming language and a software product that uses the Delphi dialect of the Object Pascal programming language and provides an integrated development environment.
 - [Dot Net](Languages/DotNet.md) - .NET is a free and open-source, managed computer software framework for Windows, Linux, and macOS operating systems. It is a cross-platform successor to .NET Framework.
 - [F#](Languages/Fsharp.md) - F# is a functional-first, general purpose, strongly typed, multi-paradigm programming language.
+- [Faber](Languages/Faber.md) - Faber is a statically typed language for coding agents and human authors, with a clear mechanical grammar; the same program renders in eight reader languages and compiles to Rust, TypeScript, Go, Swift and more. Experimental through 1.x.
 - [Go](Languages/Go.md) - Go is a statically typed, compiled programming language designed at Google.It is syntactically similar to C, but with memory safety, garbage collection, structural typing, and CSP-style concurrency.
 - [Groovy](Languages/Groovy.md) - Groovy is a Java-syntax-compatible object-oriented programming language for the Java platform.
 - [Haskell](Languages/Haskell.md) - Haskell is a general-purpose, statically-typed, purely functional programming language with type inference and lazy evaluation
