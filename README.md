@@ -37,6 +37,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Javascript](Languages/Javascript.md) - JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments.
 - [Julia](Languages/Julia.md) - Julia is a dynamic, high-performance, compiler based programming language that is used to perform operations in scientific computing. Similar to R Programming Language, Julia is used for statistical computations and data analysis. Julia was built mainly because of its speed in programming, it has much faster execution as compared to Python and R.
 - [Kotlin](Languages/Kotlin.md) - Kotlin is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, originally developed and unveiled as Project Kotlin by JetBrains in 2011.
+- [Lispex](Languages/Lispex.md) - A safe language for business rules
 - [Lua](Languages/Lua.md) - Lua from Portuguese, meaning "moon" is a lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications.
   Lua is cross-platform, since the interpreter of compiled bytecode is written in ANSI C, and Lua has a relatively simple C API to embed it into applications.
 - [Objective-C](Languages/ObjectiveC.md) - LuObjective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging to the C programming language. Originally developed by Brad Cox and Tom Love in the early 1980s.
@@ -52,6 +53,7 @@ Please submit a issue [here](https://github.com/ericspring08/Awesome-Programming
 - [Scratch](Languages/Scratch.md) - Scratch is a high-level block-based visual programming language and website aimed primarily at children as an educational tool for programming.
 - [Solidity](Languages/Solidity.md) - Solidity is an object-oriented programming language for implementing smart contracts on various blockchain platforms, most notably, Ethereum.
 - [Swift](Languages/Swift.md) - Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. and the open-source community.
+- [Topaz](Languages/Topaz.md) - A general-purpose programming language with typesetting built in
 - [TypeScript](Languages/TypeScript.md) - TypeScript is a free and open source programming language developed and maintained by Microsoft. It is a strict syntactical superset of JavaScript and adds optional static typing to the language.
 - [V](Languages/V.md) - V is a simple, fast, safe, compiled. For developing maintainable software. I can be compiled into c and is known for having a small footprint.
 - [Vim Script](Languages/Vimscript.md) - Vimscript is a powerful scripting language that lets you modify and extend the Vim editor.
